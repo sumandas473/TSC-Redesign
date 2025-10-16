@@ -61,13 +61,13 @@ export const Header = () => {
     return (
         <div
             className="max-w-7xl relative mx-auto py-20 md:py-20 px-4 w-full  left-0 top-0">
-                <h3 className="text-xl md:text-4xl font-normal dark:text-white">
+                <h3 className="text-xl md:text-4xl font-normal dark:text-blue-600">
                     About Us
                 </h3>
-            <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
+            <h1 className="text-2xl md:text-7xl font-bold text-zinc-700">
                 Transcendence<br />A Software Development Company of Eastern India
             </h1>
-            <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
+            <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-800">
                 TRANSCENDENCE is a Software Development Company of Eastern India, diversified into Software Products and Service Oriented Business, Since 2014. It has delivered more than 200 projects, where near about 80% are repeat order. It has strategically formed alliance with Organizations providing Expertise in their relative field to increase the footprint of the services to be provided to its customers and at the same time maintain check and balance.
             </p>
         </div>
